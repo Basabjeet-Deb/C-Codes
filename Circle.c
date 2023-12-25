@@ -4,7 +4,7 @@ int main()
     //We need two variables
     double Area, Radius;
     //Taking Radius from user
-    printf("Enter the Radious of the circle:");
+    printf("Enter the Radious of the circle(in Cm):");
     scanf("%lf",&Radius);
     //Using the formula of area of a circle
     Area = 3.14*Radius*Radius;
